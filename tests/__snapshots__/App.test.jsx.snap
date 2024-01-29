@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component match with snapshot 1`] = `
+<div>
+  <h1>
+    Indices Economicos Chilenos
+  </h1>
+  <hr />
+  <h1>
+    Cargando...
+  </h1>
+  <div
+    class="card-grid"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="title"
+        data-testid="title"
+      >
+        Unidad de fomento (UF)
+      </div>
+      <div
+        class="value"
+      >
+        33,685.1
+      </div>
+      <div
+        class="detail"
+      >
+        Pesos
+        <br />
+        Sun Aug 21 2022
+      </div>
+    </div>
+    <div
+      class="card"
+    >
+      <div
+        class="title"
+        data-testid="title"
+      >
+        Indice de valor promedio (IVP)
+      </div>
+      <div
+        class="value"
+      >
+        34,223.11
+      </div>
+      <div
+        class="detail"
+      >
+        Pesos
+        <br />
+        Sun Aug 21 2022
+      </div>
+    </div>
+  </div>
+</div>
+`;

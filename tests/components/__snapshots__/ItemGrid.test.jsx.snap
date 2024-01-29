@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in ItemGrid Component match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <div
+      class="title"
+      data-testid="title"
+    >
+      Unidad de fomento (UF)
+    </div>
+    <div
+      class="value"
+    >
+      33,669
+    </div>
+    <div
+      class="detail"
+    >
+      Pesos
+      <br />
+      Sat Aug 20 2022
+    </div>
+  </div>
+</div>
+`;
